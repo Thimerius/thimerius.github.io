@@ -26,7 +26,7 @@ https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx
 ## Date of Privacy Policy 
 
 If we decide to change our privacy policy, we will post those changes on this page. 
-This policy was last modified on 2017-06-12
+This policy was last modified on 2021-12-05
 
 ## Contact
 If there are any questions regarding this privacy policy you may contact us using the information below. 
