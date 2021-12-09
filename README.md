@@ -6,6 +6,8 @@ This is the main homepage to Thimerius Inc. while we change the servers. This is
 
 ## Projects
 
+https://thimerius.github.io/en/index
+
 ### Chrono Overlay
 
 An easy to setup Chronometer Overlay that runs above all Windows Desktop programs.
