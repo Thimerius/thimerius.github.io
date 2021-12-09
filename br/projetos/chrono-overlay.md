@@ -49,4 +49,4 @@ Você só pode definir um Chrono Overlay neste ponto, mas iremos atualizá-lo po
 
 ## Política de Privacidade
 
-[Privacy Policy of Chrono Overlay](/br/politica_privacidade_windows_apps)
+[Política de Privacidade do Chrono Overlay](/br/politica_privacidade_windows_apps)

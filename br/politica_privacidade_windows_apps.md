@@ -27,7 +27,7 @@ Podemos incluir publicidade a produtos ou serviços de terceiros em nosso site. 
 ## Microsoft
 
 A Microsoft usa técnicas para analisar e rastrear aplicativos da Windows Store.
-https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx
+[https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx](https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx)
 
 ## Data da Política de Privacidade
 
@@ -38,6 +38,6 @@ Esta política foi modificada pela última vez em 05-12-2021
 
 Se houver alguma dúvida em relação a esta política de privacidade, você pode nos contatar usando as informações abaixo.
 
-Thimerius Thimerian
-thimerius@gmail.com
+Thimerius  
+thimerius@gmail.com  
 Site: https://thimerius.github.io

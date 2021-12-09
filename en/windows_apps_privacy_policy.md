@@ -27,7 +27,7 @@ We may include advertising to third party products or services on our website. T
 ## Microsoft
 
 Microsoft uses techniques to analyze and track apps from the Windows Store.
-https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx
+[https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx](https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx)
 
 ## Date of Privacy Policy
 
@@ -38,7 +38,6 @@ This policy was last modified on 2021-12-05
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Thimerius Thimerian  
+Thimerius  
 thimerius@gmail.com  
-Website: https://thimerius.github.io  
-
+Site: https://thimerius.github.io
