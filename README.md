@@ -1,5 +1,8 @@
 # Thimerius Inc.
 
+[![Português](./images/brazil.png)](/br/)
+[![English](./images/usa.png)](/en/)
+
 ## Welcome to Thimerius Inc.
 
 This is the main homepage to Thimerius Inc. while we change the servers. This is where we would share our projects and information.
